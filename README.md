@@ -1,0 +1,2 @@
+- Antes do Spring Security 4.x - a proteção CSRF é desabilitada por padrão 
+- Depois do Spring Security 4.x - a proteção CSRF é ativada por padrão 
